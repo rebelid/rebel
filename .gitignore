@@ -1,6 +1,5 @@
 *.odt
 *.ods
-*.ott
 *#
 .LABs/
 .TMP/
@@ -9,4 +8,4 @@
 *.zip
 *.tar*/
 *.py[roc]
-
+*.reb
